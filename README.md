@@ -13,6 +13,6 @@
 
 ## 👋   hi there, welcome to my github ~ 
 
-[👾](https://longfeis.me/) This is `lóng fēi`, from Shanghai🇨🇳 . 
+[👾](https://longfeis.me/) My name is `lóng fēi`, comes from Shanghai🇨🇳 . 
 
-### 😊  happy coding ~
+### open source
