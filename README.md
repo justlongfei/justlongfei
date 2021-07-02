@@ -17,6 +17,3 @@
 [👾](https://longfeis.me/) My name is `lóng fēi`, comes from Shanghai🇨🇳 . 
 
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
-
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1000px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)
