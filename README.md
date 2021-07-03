@@ -1,21 +1,16 @@
-```
-                                   _           _              
-                                  (_ )        ( )_            
-   _      _    _ _     ___  ______ | |    __  | ,_)  ___ ___  
- /'_`\  /'_`\ ( '_`\ /',__)(______)| |  /'_ `\| |  /' _ ` _ `\
-( (_) )( (_) )| (_) )\__, \        | | ( (_) || |_ | ( ) ( ) |
-`\___/'`\___/'| ,__/'(____/       (___)`\__  |`\__)(_) (_) (_)
-              | |                      ( )_) |                
-              (_)                       \___/'                
-                _                           ___               
-               (_ )                       /'___)      _       
-                | |    _     ___     __  | (__   __  (_)      
-                | |  /'_`\ /' _ `\ /'_ `\| ,__)/'__`\| |      
-                | | ( (_) )| ( ) |( (_) || |  (  ___/| |      
-               (___)`\___/'(_) (_)`\__  |(_)  `\____)(_)      
-                                  ( )_) |                     
-                                   \___/'                     
-```
+                                   _       _             
+        ___   ___  _ __  ___      | | __ _| |_ _ __ ___  
+       / _ \ / _ \| '_ \/ __|_____| |/ _` | __| '_ ` _ \ 
+      | (_) | (_) | |_) \__ \_____| | (_| | |_| | | | | |
+       \___/ \___/| .__/|___/     |_|\__, |\__|_| |_| |_|
+                  |_|                |___/               
+                    _                        _____    _ 
+                   | |    ___  _ __   __ _  |  ___|__(_)
+                   | |   / _ \| '_ \ / _` | | |_ / _ \ |
+                   | |__| (_) | | | | (_| | |  _|  __/ |
+                   |_____\___/|_| |_|\__, | |_|  \___|_|
+                                     |___/              
+
 
 ## 👋   hi there, welcome to my github ~ 
 
@@ -24,4 +19,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1000px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dendrocygna_eytoni_-_Macquarie_University.jpg/700px-Dendrocygna_eytoni_-_Macquarie_University.jpg)
