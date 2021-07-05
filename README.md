@@ -25,4 +25,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dendrocygna_eytoni_-_Macquarie_University.jpg/700px-Dendrocygna_eytoni_-_Macquarie_University.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BEP-GIRSCH-Declaration_of_Independence_%28Trumbull%29.jpg/1000px-BEP-GIRSCH-Declaration_of_Independence_%28Trumbull%29.jpg)
