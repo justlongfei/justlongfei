@@ -25,4 +25,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BEP-GIRSCH-Declaration_of_Independence_%28Trumbull%29.jpg/1000px-BEP-GIRSCH-Declaration_of_Independence_%28Trumbull%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tofana_di_Rozes_parete_sud_Dolomiti_Ampezzo.jpg/1000px-Tofana_di_Rozes_parete_sud_Dolomiti_Ampezzo.jpg)
