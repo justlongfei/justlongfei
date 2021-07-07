@@ -25,4 +25,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tofana_di_Rozes_parete_sud_Dolomiti_Ampezzo.jpg/1000px-Tofana_di_Rozes_parete_sud_Dolomiti_Ampezzo.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Variegated_grasshopper_%28Zonocerus_variegatus%29.jpg/700px-Variegated_grasshopper_%28Zonocerus_variegatus%29.jpg)
