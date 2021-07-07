@@ -22,6 +22,9 @@
 
 [👾](https://longfeis.me/) My name is `lóng fēi`, comes from Shanghai🇨🇳 . 
 
+![counter](https://komarev.com/ghpvc/?username=oops-lgtm&color=blueviolet&label=PROFILE+VIEWS)
+
+
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
