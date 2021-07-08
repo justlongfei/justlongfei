@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Variegated_grasshopper_%28Zonocerus_variegatus%29.jpg/700px-Variegated_grasshopper_%28Zonocerus_variegatus%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Soyuz_rocket_and_spaceship_V1-1.svg/700px-Soyuz_rocket_and_spaceship_V1-1.svg.png)
