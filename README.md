@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/WINDOM%2C_William-Treasury_%28BEP_engraved_portrait%29.jpg/600px-WINDOM%2C_William-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Roan_antelope_%28Hippotragus_equinus_koba%29.jpg/800px-Roan_antelope_%28Hippotragus_equinus_koba%29.jpg)
