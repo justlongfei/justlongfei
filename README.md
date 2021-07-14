@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Falcunculus_frontatus_-_Dharug_National_Park.jpg/700px-Falcunculus_frontatus_-_Dharug_National_Park.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RJ_Palacio_at_BookCon_%2816102%29.jpg/600px-RJ_Palacio_at_BookCon_%2816102%29.jpg)
