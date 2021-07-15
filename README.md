@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RJ_Palacio_at_BookCon_%2816102%29.jpg/600px-RJ_Palacio_at_BookCon_%2816102%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Turgot_map_of_Paris_-_Norman_B._Leventhal_Map_Center.jpg/1250px-Turgot_map_of_Paris_-_Norman_B._Leventhal_Map_Center.jpg)
