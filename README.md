@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Turgot_map_of_Paris_-_Norman_B._Leventhal_Map_Center.jpg/1250px-Turgot_map_of_Paris_-_Norman_B._Leventhal_Map_Center.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Blue-legged_chameleon_%28Calumma_crypticum%29_male_Ranomafana.jpg/700px-Blue-legged_chameleon_%28Calumma_crypticum%29_male_Ranomafana.jpg)
