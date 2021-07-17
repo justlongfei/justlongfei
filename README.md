@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Blue-legged_chameleon_%28Calumma_crypticum%29_male_Ranomafana.jpg/700px-Blue-legged_chameleon_%28Calumma_crypticum%29_male_Ranomafana.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Playa_Noordhoek%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_126.jpg/1000px-Playa_Noordhoek%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_126.jpg)
