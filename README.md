@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Playa_Noordhoek%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_126.jpg/1000px-Playa_Noordhoek%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_126.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Anna_Bili%C5%84ska-Bohdanowiczowa_-_At_the_seaside_-_MP_203_-_National_Museum_in_Warsaw.jpg/600px-Anna_Bili%C5%84ska-Bohdanowiczowa_-_At_the_seaside_-_MP_203_-_National_Museum_in_Warsaw.jpg)
