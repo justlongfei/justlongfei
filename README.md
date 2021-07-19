@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Anna_Bili%C5%84ska-Bohdanowiczowa_-_At_the_seaside_-_MP_203_-_National_Museum_in_Warsaw.jpg/600px-Anna_Bili%C5%84ska-Bohdanowiczowa_-_At_the_seaside_-_MP_203_-_National_Museum_in_Warsaw.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Limosa_lapponica_2_-_Taren_Point.jpg/700px-Limosa_lapponica_2_-_Taren_Point.jpg)
