@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Limosa_lapponica_2_-_Taren_Point.jpg/700px-Limosa_lapponica_2_-_Taren_Point.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/WALKER%2C_Robert_J-Treasury_%28BEP_engraved_portrait%29.jpg/600px-WALKER%2C_Robert_J-Treasury_%28BEP_engraved_portrait%29.jpg)
