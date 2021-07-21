@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/WALKER%2C_Robert_J-Treasury_%28BEP_engraved_portrait%29.jpg/600px-WALKER%2C_Robert_J-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpg/700px-Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpg)
