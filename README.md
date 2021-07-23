@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpg/700px-Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BEP-RICE-Embarkation_of_the_Pilgrims_%28Weir%29.jpg/1000px-BEP-RICE-Embarkation_of_the_Pilgrims_%28Weir%29.jpg)
