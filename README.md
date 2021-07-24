@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BEP-RICE-Embarkation_of_the_Pilgrims_%28Weir%29.jpg/1000px-BEP-RICE-Embarkation_of_the_Pilgrims_%28Weir%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Leptosia_nina-Kadavoor-2017-05-04-003.jpg/700px-Leptosia_nina-Kadavoor-2017-05-04-003.jpg)
