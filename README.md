@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/DIX%2C_John_A-Treasury_%28BEP_engraved_portrait%29.jpg/600px-DIX%2C_John_A-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Castillo_de_San_Juan_Bautista.jpg/1000px-Castillo_de_San_Juan_Bautista.jpg)
