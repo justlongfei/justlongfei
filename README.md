@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Castillo_de_San_Juan_Bautista.jpg/1000px-Castillo_de_San_Juan_Bautista.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MAL-M2a-Malaya-Japanese_Occupation-Five_Cents_ND_%281942%29.jpg/700px-MAL-M2a-Malaya-Japanese_Occupation-Five_Cents_ND_%281942%29.jpg)
