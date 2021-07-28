@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MAL-M2a-Malaya-Japanese_Occupation-Five_Cents_ND_%281942%29.jpg/700px-MAL-M2a-Malaya-Japanese_Occupation-Five_Cents_ND_%281942%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nelly_Diener_cropped.jpg/700px-Nelly_Diener_cropped.jpg)
