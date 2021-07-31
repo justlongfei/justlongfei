@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/800px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Spiral_stairs_%28%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D0%BD%D0%BE_%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8%D1%88%D1%82%D0%B5%29.jpg/700px-Spiral_stairs_%28%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D0%BD%D0%BE_%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8%D1%88%D1%82%D0%B5%29.jpg)
