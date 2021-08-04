@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bertha_Lutz_1925.jpg/600px-Bertha_Lutz_1925.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vincent_Van_Gogh_-_Corn_Harvest_in_Provence_-_Google_Art_Project.jpg/700px-Vincent_Van_Gogh_-_Corn_Harvest_in_Provence_-_Google_Art_Project.jpg)
