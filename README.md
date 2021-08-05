@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vincent_Van_Gogh_-_Corn_Harvest_in_Provence_-_Google_Art_Project.jpg/700px-Vincent_Van_Gogh_-_Corn_Harvest_in_Provence_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stargazer_snake_eel_%28Brachysomophis_cirrocheilos%29_%2814419490013%29.jpg/700px-Stargazer_snake_eel_%28Brachysomophis_cirrocheilos%29_%2814419490013%29.jpg)
