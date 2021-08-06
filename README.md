@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stargazer_snake_eel_%28Brachysomophis_cirrocheilos%29_%2814419490013%29.jpg/700px-Stargazer_snake_eel_%28Brachysomophis_cirrocheilos%29_%2814419490013%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/C%C3%A9lestin_Nanteuil_-_Jules_Massenet_-_Don_C%C3%A9sar_de_Bazan.jpg/600px-C%C3%A9lestin_Nanteuil_-_Jules_Massenet_-_Don_C%C3%A9sar_de_Bazan.jpg)
