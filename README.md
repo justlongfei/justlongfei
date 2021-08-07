@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/C%C3%A9lestin_Nanteuil_-_Jules_Massenet_-_Don_C%C3%A9sar_de_Bazan.jpg/600px-C%C3%A9lestin_Nanteuil_-_Jules_Massenet_-_Don_C%C3%A9sar_de_Bazan.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Heinrich_Berann_NPS_Panorama_of_Denali_without_labels.jpg/1000px-Heinrich_Berann_NPS_Panorama_of_Denali_without_labels.jpg)
