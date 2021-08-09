@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Heinrich_Berann_NPS_Panorama_of_Denali_without_labels.jpg/1000px-Heinrich_Berann_NPS_Panorama_of_Denali_without_labels.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Egon_Schiele_-_Portrait_of_Wally_Neuzil_-_Google_Art_Project.jpg/700px-Egon_Schiele_-_Portrait_of_Wally_Neuzil_-_Google_Art_Project.jpg)
