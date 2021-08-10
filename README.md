@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Egon_Schiele_-_Portrait_of_Wally_Neuzil_-_Google_Art_Project.jpg/700px-Egon_Schiele_-_Portrait_of_Wally_Neuzil_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sapphire-throated_hummingbird_%28Lepidopyga_coeruleogularis_coeruleogularis%29_male.jpg/700px-Sapphire-throated_hummingbird_%28Lepidopyga_coeruleogularis_coeruleogularis%29_male.jpg)
