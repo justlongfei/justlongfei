@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sapphire-throated_hummingbird_%28Lepidopyga_coeruleogularis_coeruleogularis%29_male.jpg/700px-Sapphire-throated_hummingbird_%28Lepidopyga_coeruleogularis_coeruleogularis%29_male.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/McLANE%2C_Louis-Treasury_%28BEP_engraved_portrait%29.jpg/600px-McLANE%2C_Louis-Treasury_%28BEP_engraved_portrait%29.jpg)
