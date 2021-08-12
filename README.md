@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/McLANE%2C_Louis-Treasury_%28BEP_engraved_portrait%29.jpg/600px-McLANE%2C_Louis-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Vespa_orientalis_2.jpg/700px-Vespa_orientalis_2.jpg)
