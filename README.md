@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Vespa_orientalis_2.jpg/700px-Vespa_orientalis_2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/El_Salvador_1892_20_Pesos.jpg/800px-El_Salvador_1892_20_Pesos.jpg)
