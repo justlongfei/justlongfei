@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lichfield_Cathedral_Organ%2C_Staffordshire%2C_UK_-_Diliff.jpg/700px-Lichfield_Cathedral_Organ%2C_Staffordshire%2C_UK_-_Diliff.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Henri_C._R._Presseq_-_Camille_Erlanger_-_Le_juif_polonais.jpg/600px-Henri_C._R._Presseq_-_Camille_Erlanger_-_Le_juif_polonais.jpg)
