@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg/800px-Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ignace_Gaston_Pardies-Plate_2.jpg/1000px-Ignace_Gaston_Pardies-Plate_2.jpg)
