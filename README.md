@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Black-headed_weaver_%28Ploceus_cucullatus_bohndorffi%29_male_nest_building.jpg/800px-Black-headed_weaver_%28Ploceus_cucullatus_bohndorffi%29_male_nest_building.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/F-117_Nighthawk_Front.jpg/700px-F-117_Nighthawk_Front.jpg)
