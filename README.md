@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/F-117_Nighthawk_Front.jpg/700px-F-117_Nighthawk_Front.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Argiope_July_2012-3.jpg/600px-Argiope_July_2012-3.jpg)
