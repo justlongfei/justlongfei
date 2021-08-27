@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Henri_Motte_-_La_fianc%C3%A9e_de_B%C3%A9lus_%281885%29.jpg/400px-Henri_Motte_-_La_fianc%C3%A9e_de_B%C3%A9lus_%281885%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg/800px-Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg)
