@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg/800px-Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%C3%89mile_Bayard_-_Beaumarchais_-_B%C3%A9g%C3%A9arss_in_La_m%C3%A8re_coupable%2C_1876.jpg/600px-%C3%89mile_Bayard_-_Beaumarchais_-_B%C3%A9g%C3%A9arss_in_La_m%C3%A8re_coupable%2C_1876.jpg)
