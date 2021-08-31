@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Averbode_Abdijkerk_R06.jpg/1000px-Averbode_Abdijkerk_R06.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albury_railway_station%2C_Australia.jpg/1000px-Albury_railway_station%2C_Australia.jpg)
