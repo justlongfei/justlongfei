@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pieris_brassicae_%28caterpillar%29.jpg/800px-Pieris_brassicae_%28caterpillar%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Liliuokalani%2C_c._1891.jpg/700px-Liliuokalani%2C_c._1891.jpg)
