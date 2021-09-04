@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Liliuokalani%2C_c._1891.jpg/700px-Liliuokalani%2C_c._1891.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Novel_Coronavirus_SARS-CoV-2.jpg/800px-Novel_Coronavirus_SARS-CoV-2.jpg)
