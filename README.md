@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Novel_Coronavirus_SARS-CoV-2.jpg/800px-Novel_Coronavirus_SARS-CoV-2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mrs._Pauline_Adams_147002v.jpg/600px-Mrs._Pauline_Adams_147002v.jpg)
