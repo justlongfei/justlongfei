@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zoothera_citrina_-_Khao_Yai.jpg/700px-Zoothera_citrina_-_Khao_Yai.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marie-Gabrielle_Capet_-_Self-Portrait_-_Google_Art_Project.jpg/600px-Marie-Gabrielle_Capet_-_Self-Portrait_-_Google_Art_Project.jpg)
