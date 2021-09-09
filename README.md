@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/COBB%2C_Howell-Treasury_%28BEP_engraved_portrait%29.jpg/600px-COBB%2C_Howell-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%C4%80l%C4%AB_Q%C4%81p%C5%AB_in_golden_time.jpg/800px-%C4%80l%C4%AB_Q%C4%81p%C5%AB_in_golden_time.jpg)
