@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%C4%80l%C4%AB_Q%C4%81p%C5%AB_in_golden_time.jpg/800px-%C4%80l%C4%AB_Q%C4%81p%C5%AB_in_golden_time.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Utah_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg/700px-Utah_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg)
