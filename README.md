@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Utah_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg/700px-Utah_territory_coat_of_arms_%28illustrated%2C_1876%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Papilio_polymnestor-Kadavoor-2016-07-27-002.jpg/800px-Papilio_polymnestor-Kadavoor-2016-07-27-002.jpg)
