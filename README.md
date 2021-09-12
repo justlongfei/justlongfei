@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Papilio_polymnestor-Kadavoor-2016-07-27-002.jpg/800px-Papilio_polymnestor-Kadavoor-2016-07-27-002.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Paper_cut-out_with_The_Lord%27s_Prayer_MET_DP372401.jpg/700px-Paper_cut-out_with_The_Lord%27s_Prayer_MET_DP372401.jpg)
