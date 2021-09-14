@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/THOMAS%2C_Philip_F-Treasury_%28BEP_engraved_portrait%29.jpg/600px-THOMAS%2C_Philip_F-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Internal_reflection%2C_Anna.jpg/700px-Internal_reflection%2C_Anna.jpg)
