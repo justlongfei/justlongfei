@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Alpine_House%2C_Kew_Gardens%2C_2018_edit.jpg/700px-Alpine_House%2C_Kew_Gardens%2C_2018_edit.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mohsen_Koochebaghi_Tabrizi_-_2010.JPG/700px-Mohsen_Koochebaghi_Tabrizi_-_2010.JPG)
