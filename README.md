@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mohsen_Koochebaghi_Tabrizi_-_2010.JPG/700px-Mohsen_Koochebaghi_Tabrizi_-_2010.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Siege_of_Osaka_Castle.jpg/1500px-The_Siege_of_Osaka_Castle.jpg)
