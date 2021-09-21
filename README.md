@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Poster_for_Le_pardon_de_Plo%C3%ABrmel_1859.jpg/700px-Poster_for_Le_pardon_de_Plo%C3%ABrmel_1859.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Indian_rhinoceros_%28Rhinoceros_unicornis%29_4.jpg/700px-Indian_rhinoceros_%28Rhinoceros_unicornis%29_4.jpg)
