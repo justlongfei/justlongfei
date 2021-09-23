@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Indian_rhinoceros_%28Rhinoceros_unicornis%29_4.jpg/700px-Indian_rhinoceros_%28Rhinoceros_unicornis%29_4.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mrs._Lillian_Ascough%2C_chairman_of_the_Connecticut_branch_of_the_Woman%27s_Party.jpg/600px-Mrs._Lillian_Ascough%2C_chairman_of_the_Connecticut_branch_of_the_Woman%27s_Party.jpg)
