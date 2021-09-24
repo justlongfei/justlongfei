@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mrs._Lillian_Ascough%2C_chairman_of_the_Connecticut_branch_of_the_Woman%27s_Party.jpg/600px-Mrs._Lillian_Ascough%2C_chairman_of_the_Connecticut_branch_of_the_Woman%27s_Party.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pierre-Auguste_Lamy_%28%3F%29_-_Les_contes_d%27Hoffmann_by_Jacques_Offenbach%2C_Giulietta_act.jpg/800px-Pierre-Auguste_Lamy_%28%3F%29_-_Les_contes_d%27Hoffmann_by_Jacques_Offenbach%2C_Giulietta_act.jpg)
