@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pierre-Auguste_Lamy_%28%3F%29_-_Les_contes_d%27Hoffmann_by_Jacques_Offenbach%2C_Giulietta_act.jpg/800px-Pierre-Auguste_Lamy_%28%3F%29_-_Les_contes_d%27Hoffmann_by_Jacques_Offenbach%2C_Giulietta_act.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Psephotus_haematonotus_male_-_Cornwallis_Rd.jpg/600px-Psephotus_haematonotus_male_-_Cornwallis_Rd.jpg)
