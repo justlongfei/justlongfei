@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Psephotus_haematonotus_male_-_Cornwallis_Rd.jpg/600px-Psephotus_haematonotus_male_-_Cornwallis_Rd.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Equestrian_Portrait_of_Cornelis_%281639%E2%80%931680%29_and_Michiel_Pompe_van_Meerdervoort_%281638%E2%80%931653%29_with_Their_Tutor_and_Coachman_%28%22Starting_for_the_Hunt%22%29_MET_DP146442.jpg/1000px-thumbnail.jpg)
