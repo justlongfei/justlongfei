@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Basilica_dei_Santi_Giovanni_e_Paolo_al_Celio_-_Interior.jpg/800px-Basilica_dei_Santi_Giovanni_e_Paolo_al_Celio_-_Interior.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Abfertigen_einer_Meldung_durch_Brieftauben_-_CH-BAR_-_3240471_-_restoration.jpg/600px-Abfertigen_einer_Meldung_durch_Brieftauben_-_CH-BAR_-_3240471_-_restoration.jpg)
