@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Abfertigen_einer_Meldung_durch_Brieftauben_-_CH-BAR_-_3240471_-_restoration.jpg/600px-Abfertigen_einer_Meldung_durch_Brieftauben_-_CH-BAR_-_3240471_-_restoration.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Atari-2600-Wood-4Sw-Set.jpg/800px-Atari-2600-Wood-4Sw-Set.jpg)
