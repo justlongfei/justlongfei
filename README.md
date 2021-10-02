@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg/600px-Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aegotheles_chrisoptus_-_Catlereigh_Nature_Reserve.jpg/700px-Aegotheles_chrisoptus_-_Catlereigh_Nature_Reserve.jpg)
