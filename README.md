@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Black_skimmer_%28Rynchops_niger%29_in_flight.jpg/800px-Black_skimmer_%28Rynchops_niger%29_in_flight.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Yukon_Delta.jpg/700px-Yukon_Delta.jpg)
