@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Yukon_Delta.jpg/700px-Yukon_Delta.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wedding_Supper_-_Martin_van_Meytens_-_Google_Cultural_Institute.jpg/600px-Wedding_Supper_-_Martin_van_Meytens_-_Google_Cultural_Institute.jpg)
