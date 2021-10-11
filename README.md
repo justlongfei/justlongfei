@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marsh_frog_%28Pelophylax_ridibundus%29.jpg/800px-Marsh_frog_%28Pelophylax_ridibundus%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Verdi_conducting_Aida_in_Paris_1880_-_Gallica_-_Restoration.jpg/700px-Verdi_conducting_Aida_in_Paris_1880_-_Gallica_-_Restoration.jpg)
