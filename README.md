@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Apollo_10_Flown_Silver_Robbins_Medallion_%28SN-70%29.jpg/600px-Apollo_10_Flown_Silver_Robbins_Medallion_%28SN-70%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BEP-%28Multiple%29-Landing_of_Columbus_%28Vanderlyn%29.jpg/1000px-BEP-%28Multiple%29-Landing_of_Columbus_%28Vanderlyn%29.jpg)
