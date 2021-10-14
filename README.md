@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BEP-%28Multiple%29-Landing_of_Columbus_%28Vanderlyn%29.jpg/1000px-BEP-%28Multiple%29-Landing_of_Columbus_%28Vanderlyn%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Line_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017%2C_car_01.png/1010px-Line_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017%2C_car_01.png)
