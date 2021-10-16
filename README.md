@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Francisco_Goya_-_Portrait_of_Ferdinand_VII_of_Spain_in_his_robes_of_state_%281815%29_-_Prado.jpg/600px-Francisco_Goya_-_Portrait_of_Ferdinand_VII_of_Spain_in_his_robes_of_state_%281815%29_-_Prado.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/FESSENDEN%2C_William_P-Treasury_%28BEP_engraved_portrait%29.jpg/600px-FESSENDEN%2C_William_P-Treasury_%28BEP_engraved_portrait%29.jpg)
