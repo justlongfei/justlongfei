@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/FESSENDEN%2C_William_P-Treasury_%28BEP_engraved_portrait%29.jpg/600px-FESSENDEN%2C_William_P-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Duomo_vecchio_facciata_Brescia.jpg/700px-Duomo_vecchio_facciata_Brescia.jpg)
