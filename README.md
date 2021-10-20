@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Senator_George_P._Wetmore_of_Rhode_Island_in_a_Krieger_electric_automobile.jpg/700px-Senator_George_P._Wetmore_of_Rhode_Island_in_a_Krieger_electric_automobile.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Red-billed_gull%2C_Red_Zone%2C_Christchurch%2C_New_Zealand.jpg/700px-Red-billed_gull%2C_Red_Zone%2C_Christchurch%2C_New_Zealand.jpg)
