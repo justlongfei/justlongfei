@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Red-billed_gull%2C_Red_Zone%2C_Christchurch%2C_New_Zealand.jpg/700px-Red-billed_gull%2C_Red_Zone%2C_Christchurch%2C_New_Zealand.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/German_New_Guinea_1895-A_20_Mark.jpg/800px-German_New_Guinea_1895-A_20_Mark.jpg)
