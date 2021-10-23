@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/German_New_Guinea_1895-A_20_Mark.jpg/800px-German_New_Guinea_1895-A_20_Mark.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sarah_Bernhardt%2C_par_Nadar%2C_1864%2C_sepia.jpg/600px-Sarah_Bernhardt%2C_par_Nadar%2C_1864%2C_sepia.jpg)
