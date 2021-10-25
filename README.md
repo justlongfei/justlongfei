@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rhacophorus_nigropalmatus.jpg/800px-Rhacophorus_nigropalmatus.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/La_Juive_Act_1_set_1835_-_Restoration.jpg/800px-La_Juive_Act_1_set_1835_-_Restoration.jpg)
