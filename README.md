@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Origma_solitaria_2_-_Wattamolla.jpg/700px-Origma_solitaria_2_-_Wattamolla.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Enclosed_Field_with_Ploughman_-_Google_Art_Project.jpg/700px-Vincent_van_Gogh_-_Enclosed_Field_with_Ploughman_-_Google_Art_Project.jpg)
