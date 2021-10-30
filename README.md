@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Enclosed_Field_with_Ploughman_-_Google_Art_Project.jpg/700px-Vincent_van_Gogh_-_Enclosed_Field_with_Ploughman_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marsh_fritillaries_%28Euphydryas_aurinia%29_mating.jpg/700px-Marsh_fritillaries_%28Euphydryas_aurinia%29_mating.jpg)
