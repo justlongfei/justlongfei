@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marsh_fritillaries_%28Euphydryas_aurinia%29_mating.jpg/700px-Marsh_fritillaries_%28Euphydryas_aurinia%29_mating.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BIBB%2C_George_M-Treasury_%28BEP_engraved_portrait%29.jpg/600px-BIBB%2C_George_M-Treasury_%28BEP_engraved_portrait%29.jpg)
