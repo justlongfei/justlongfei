@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Edison%27s_Greatest_Marvel-The_Vitascope_-_Restoration.jpg/700px-Edison%27s_Greatest_Marvel-The_Vitascope_-_Restoration.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Passiflora_caerulea_STEREO_%28R-L%29_2019-06-27.jpg/1000px-Passiflora_caerulea_STEREO_%28R-L%29_2019-06-27.jpg)
