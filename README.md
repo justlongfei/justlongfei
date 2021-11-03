@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Passiflora_caerulea_STEREO_%28R-L%29_2019-06-27.jpg/1000px-Passiflora_caerulea_STEREO_%28R-L%29_2019-06-27.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RICHARDSON%2C_William_A-Treasury_%28BEP_engraved_portrait%29.jpg/600px-RICHARDSON%2C_William_A-Treasury_%28BEP_engraved_portrait%29.jpg)
