@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Green-crowned_brilliant_%28Heliodoxa_jacula_henryi%29_female.jpg/760px-Green-crowned_brilliant_%28Heliodoxa_jacula_henryi%29_female.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Russian_chapel_at_Fort_Ross_%282016%29.jpg/800px-Russian_chapel_at_Fort_Ross_%282016%29.jpg)
