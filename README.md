@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BR-GUI-B3-Demerary_%26_Essequebo-Three_Joes_%2822_Guilders_each%29%281830s%29.jpg/700px-BR-GUI-B3-Demerary_%26_Essequebo-Three_Joes_%2822_Guilders_each%29%281830s%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hypomeces_squamosus.jpg/700px-Hypomeces_squamosus.jpg)
