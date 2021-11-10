@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hypomeces_squamosus.jpg/700px-Hypomeces_squamosus.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fredrikke_M%C3%B8rck.jpg/500px-Fredrikke_M%C3%B8rck.jpg)
