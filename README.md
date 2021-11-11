@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fredrikke_M%C3%B8rck.jpg/500px-Fredrikke_M%C3%B8rck.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gauguin%2C_Paul_-_Landscape_near_Arles_-_Google_Art_Project.jpg/700px-Gauguin%2C_Paul_-_Landscape_near_Arles_-_Google_Art_Project.jpg)
