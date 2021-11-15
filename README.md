@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Admiral_John_Dahlgren_-_NARA_-_528718_edit.jpg/600px-Admiral_John_Dahlgren_-_NARA_-_528718_edit.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Charles-Antoine_Cambon_-_La_Esmeralda%2C_Act_3%2C_Scene_2_set.jpg/800px-Charles-Antoine_Cambon_-_La_Esmeralda%2C_Act_3%2C_Scene_2_set.jpg)
