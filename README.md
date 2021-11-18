@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cheetah_%28Acinonyx_jubatus%29_cub.jpg/700px-Cheetah_%28Acinonyx_jubatus%29_cub.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Braun%26Hogenberg_Trier_1572.jpg/700px-Braun%26Hogenberg_Trier_1572.jpg)
