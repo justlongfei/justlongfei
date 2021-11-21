@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alan_Bean_NASA_portrait_%28S69-38859%29.jpg/600px-Alan_Bean_NASA_portrait_%28S69-38859%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Arenaria_interpres_2_-_Boat_Harbour_%28cropped%29.jpg/700px-Arenaria_interpres_2_-_Boat_Harbour_%28cropped%29.jpg)
