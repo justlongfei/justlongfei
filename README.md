@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Baby_Huwae%2C_c_1963%2C_Tati_Photo_Studio_2.jpg/600px-Baby_Huwae%2C_c_1963%2C_Tati_Photo_Studio_2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Five-striped_palm_squirrel_%28Funambulus_pennantii%29.jpg/600px-Five-striped_palm_squirrel_%28Funambulus_pennantii%29.jpg)
