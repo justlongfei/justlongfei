@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Diomedea_sanfordi_-_SE_Tasmania_2019.jpg/800px-Diomedea_sanfordi_-_SE_Tasmania_2019.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Indiana_state_coat_of_arms_%28illustrated%2C_1876%29.jpg/600px-Indiana_state_coat_of_arms_%28illustrated%2C_1876%29.jpg)
