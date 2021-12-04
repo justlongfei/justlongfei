@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Indiana_state_coat_of_arms_%28illustrated%2C_1876%29.jpg/600px-Indiana_state_coat_of_arms_%28illustrated%2C_1876%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Russia_1771_Sestroretsk_Rouble.jpg/900px-Russia_1771_Sestroretsk_Rouble.jpg)
