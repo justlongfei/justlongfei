@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Russia_1771_Sestroretsk_Rouble.jpg/900px-Russia_1771_Sestroretsk_Rouble.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Oustalet%27s_chameleon_%28Furcifer_oustaleti%29_male_feeding_Anja_Community_Reserve_1e.jpg/639px-Oustalet%27s_chameleon_%28Furcifer_oustaleti%29_male_feeding_Anja_Community_Reserve_1e.jpg)
