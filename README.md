@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/GUTHRIE%2C_James-Treasury_%28BEP_engraved_portrait%29.jpg/600px-GUTHRIE%2C_James-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Poster_for_Quo_Vadis_%281913_silent_film%29.jpg/600px-Poster_for_Quo_Vadis_%281913_silent_film%29.jpg)
