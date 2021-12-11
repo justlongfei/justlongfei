@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Attacus_taprobanis-Kadavoor-2018-07-07-001.jpg/700px-Attacus_taprobanis-Kadavoor-2018-07-07-001.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Programme_for_the_premi%C3%A8re_of_Ubu_Roi.jpg/700px-Programme_for_the_premi%C3%A8re_of_Ubu_Roi.jpg)
