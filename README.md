@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Eldridge_Street_Synagogue_%2842773%29.jpg/700px-Eldridge_Street_Synagogue_%2842773%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Charadrius_obscurus_aquilonius_-_Point_Chevalier.jpg/700px-Charadrius_obscurus_aquilonius_-_Point_Chevalier.jpg)
