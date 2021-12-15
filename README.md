@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MJK_54041_Barocktr%C3%A4dg%C3%A5rden_%28Drottningholm%29.jpg/600px-MJK_54041_Barocktr%C3%A4dg%C3%A5rden_%28Drottningholm%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Camp_-_Notes_on_Fashion_at_the_Met_-_Burberry_rainbow_cape_%2873854%29.jpg/600px-Camp_-_Notes_on_Fashion_at_the_Met_-_Burberry_rainbow_cape_%2873854%29.jpg)
