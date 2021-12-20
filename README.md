@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg/900px-Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hemidactylus_frenatus_mating%2C_ventral_view.jpg/600px-Hemidactylus_frenatus_mating%2C_ventral_view.jpg)
