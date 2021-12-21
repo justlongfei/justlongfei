@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hemidactylus_frenatus_mating%2C_ventral_view.jpg/600px-Hemidactylus_frenatus_mating%2C_ventral_view.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Supreme_Court_of_the_United_Kingdom%2C_Court_1_Interior%2C_London%2C_UK_-_Diliff.jpg/800px-Supreme_Court_of_the_United_Kingdom%2C_Court_1_Interior%2C_London%2C_UK_-_Diliff.jpg)
