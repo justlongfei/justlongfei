@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Raven_Manet_B2.jpg/800px-Raven_Manet_B2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_2.jpg/800px-Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_2.jpg)
