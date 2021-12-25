@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_2.jpg/800px-Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Julemotiv_tegnet_av_Jenny_Nystr%C3%B8m_%2824207693358%29.jpg/600px-Julemotiv_tegnet_av_Jenny_Nystr%C3%B8m_%2824207693358%29.jpg)
