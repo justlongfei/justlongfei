@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fouquet_Madonna.jpg/700px-Fouquet_Madonna.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/San_Stanislao_dei_Polacchi_%28Rome%29_-_Ceiling.jpg/500px-San_Stanislao_dei_Polacchi_%28Rome%29_-_Ceiling.jpg)
