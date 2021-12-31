@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Antoine_de_Favray_-_Portrait_of_Charles_Gravier_Count_of_Vergennes_and_French_Ambassador%2C_in_Turkish_Attire_-_Google_Art_Project.jpg/680px-Antoine_de_Favray_-_Portrait_of_Charles_Gravier_Count_of_Vergennes_and_French_Ambassador%2C_in_Turkish_Attire_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2017.07.17.-17-Tiefer_See_oder_Grubensee-Storkow_%28Mark%29--Ringelnatter.jpg/800px-2017.07.17.-17-Tiefer_See_oder_Grubensee-Storkow_%28Mark%29--Ringelnatter.jpg)
