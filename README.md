@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Euro_Construction.svg/800px-Euro_Construction.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Thin_section_scan_crossed_polarizers_Siilinj%C3%A4rvi_R636-105.90.jpg/1000px-Thin_section_scan_crossed_polarizers_Siilinj%C3%A4rvi_R636-105.90.jpg)
