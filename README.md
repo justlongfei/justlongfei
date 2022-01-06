@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Geastrum_triplex_-_Bola_Creek.jpg/800px-Geastrum_triplex_-_Bola_Creek.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Italiaanse_schrijver_Umberto_Eco%2C_portret.jpg/600px-Italiaanse_schrijver_Umberto_Eco%2C_portret.jpg)
