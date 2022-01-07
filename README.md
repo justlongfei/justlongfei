@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Italiaanse_schrijver_Umberto_Eco%2C_portret.jpg/600px-Italiaanse_schrijver_Umberto_Eco%2C_portret.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Gliophorus_chromolimoneus_-_Ferndale_Park.jpg/600px-Gliophorus_chromolimoneus_-_Ferndale_Park.jpg)
