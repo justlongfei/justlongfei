@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Gliophorus_chromolimoneus_-_Ferndale_Park.jpg/600px-Gliophorus_chromolimoneus_-_Ferndale_Park.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Illinois_state_coat_of_arms_%28illustrated%2C_1876%29.jpg/700px-Illinois_state_coat_of_arms_%28illustrated%2C_1876%29.jpg)
