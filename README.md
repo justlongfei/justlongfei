@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Illinois_state_coat_of_arms_%28illustrated%2C_1876%29.jpg/700px-Illinois_state_coat_of_arms_%28illustrated%2C_1876%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museum_of_the_History_of_Polish_Jews_in_Warsaw_Main_exhibition_Gwo%C5%BAdziec_synagogue.jpg/800px-Museum_of_the_History_of_Polish_Jews_in_Warsaw_Main_exhibition_Gwo%C5%BAdziec_synagogue.jpg)
