@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Carrie_Chapman_Catt_-_National_Woman%27s_Party_Records.jpg/600px-Carrie_Chapman_Catt_-_National_Woman%27s_Party_Records.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Southern_rough-winged_swallow_%28Stelgidopteryx_ruficollis_ruficollis%29.JPG/700px-Southern_rough-winged_swallow_%28Stelgidopteryx_ruficollis_ruficollis%29.JPG)
