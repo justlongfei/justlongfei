@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Southern_rough-winged_swallow_%28Stelgidopteryx_ruficollis_ruficollis%29.JPG/700px-Southern_rough-winged_swallow_%28Stelgidopteryx_ruficollis_ruficollis%29.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Apis_mellifera_scutellata_1355021.jpg/600px-Apis_mellifera_scutellata_1355021.jpg)
