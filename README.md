@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Messier_78.jpg/800px-Messier_78.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frances_Benjamin_Johnston%2C_Self-Portrait_%28as_%22New_Woman%22%29%2C_1896.jpg/700px-Frances_Benjamin_Johnston%2C_Self-Portrait_%28as_%22New_Woman%22%29%2C_1896.jpg)
