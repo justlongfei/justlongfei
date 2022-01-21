@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin_Hufeisensiedlung_UAV_04-2017.jpg/800px-Berlin_Hufeisensiedlung_UAV_04-2017.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/US-NBN-HI-Honolulu-5550-1882BB-10-1-B.jpg/700px-US-NBN-HI-Honolulu-5550-1882BB-10-1-B.jpg)
