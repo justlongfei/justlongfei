@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Two-tailed_pasha_%28Charaxes_jasius_jasius%29_Greece.jpg/700px-Two-tailed_pasha_%28Charaxes_jasius_jasius%29_Greece.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg/600px-%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg)
