@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg/1000px-RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Skating_Minister.jpg/700px-The_Skating_Minister.jpg)
