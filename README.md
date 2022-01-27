@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Skating_Minister.jpg/700px-The_Skating_Minister.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Australian_Brushturkey_2_-_Newington.jpg/700px-Australian_Brushturkey_2_-_Newington.jpg)
