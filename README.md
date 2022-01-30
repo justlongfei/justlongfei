@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Golden_gate_of_Ueno_T%C5%8Dsh%C5%8D-g%C5%AB_Shinto_shrine%2C_Tokyo%2C_Japan.jpg/800px-Golden_gate_of_Ueno_T%C5%8Dsh%C5%8D-g%C5%AB_Shinto_shrine%2C_Tokyo%2C_Japan.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/GALLATIN%2C_Albert-Treasury_%28BEP_engraved_portrait%29.jpg/600px-GALLATIN%2C_Albert-Treasury_%28BEP_engraved_portrait%29.jpg)
