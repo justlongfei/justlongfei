@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/GALLATIN%2C_Albert-Treasury_%28BEP_engraved_portrait%29.jpg/600px-GALLATIN%2C_Albert-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Swallow-tailed_bee-eater_%28Merops_hirundineus_chrysolaimus%29.jpg/700px-Swallow-tailed_bee-eater_%28Merops_hirundineus_chrysolaimus%29.jpg)
