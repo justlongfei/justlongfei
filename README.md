@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Swallow-tailed_bee-eater_%28Merops_hirundineus_chrysolaimus%29.jpg/700px-Swallow-tailed_bee-eater_%28Merops_hirundineus_chrysolaimus%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Duke_Humfrey%27s_Library_Interior_3%2C_Bodleian_Library%2C_Oxford%2C_UK_-_Diliff.jpg/700px-Duke_Humfrey%27s_Library_Interior_3%2C_Bodleian_Library%2C_Oxford%2C_UK_-_Diliff.jpg)
