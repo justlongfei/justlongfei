@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Valerie_L._Thomas_standing_with_a_stack_of_early_Landsat_Computer_Compatible_Tapes.jpg/600px-Valerie_L._Thomas_standing_with_a_stack_of_early_Landsat_Computer_Compatible_Tapes.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alice_Park_-_Records_of_the_National_Woman%27s_Party.jpg/600px-Alice_Park_-_Records_of_the_National_Woman%27s_Party.jpg)
