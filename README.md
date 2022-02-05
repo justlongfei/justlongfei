@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Melanodryas_cucullata_-_Glen_Davis.jpg/700px-Melanodryas_cucullata_-_Glen_Davis.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Heinrich_Berann_NPS_Panorama_of_Yosemite_without_labels.jpg/1000px-Heinrich_Berann_NPS_Panorama_of_Yosemite_without_labels.jpg)
