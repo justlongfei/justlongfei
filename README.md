@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ignace_Gaston_Pardies-Plate_3.jpg/1000px-Ignace_Gaston_Pardies-Plate_3.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Falstaff_3.jpg/1000px-Falstaff_3.jpg)
