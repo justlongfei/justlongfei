@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pierre-Auguste_Lamy_%28%3F%29_-_Les_contes_d%27Hoffmann_by_Jacques_Offenbach%2C_prologue.jpg/700px-Pierre-Auguste_Lamy_%28%3F%29_-_Les_contes_d%27Hoffmann_by_Jacques_Offenbach%2C_prologue.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/South_Africa_1874_One_Pond.jpg/800px-South_Africa_1874_One_Pond.jpg)
