@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/South_Africa_1874_One_Pond.jpg/800px-South_Africa_1874_One_Pond.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Connor_Barth_attempts_field_goal_8_November_2015_151108-F-ID984-017.jpg/800px-Connor_Barth_attempts_field_goal_8_November_2015_151108-F-ID984-017.jpg)
