@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Il_signor_Tambourossini_-_Delaroche.jpg/800px-Il_signor_Tambourossini_-_Delaroche.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wells_Cathedral_Chapter_House%2C_Somerset%2C_UK_-_Diliff.jpg/800px-Wells_Cathedral_Chapter_House%2C_Somerset%2C_UK_-_Diliff.jpg)
