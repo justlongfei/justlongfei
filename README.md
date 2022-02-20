@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Giraffa_camelopardalis_head_%28Profil%29.jpg/800px-Giraffa_camelopardalis_head_%28Profil%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Django_Reinhardt_%28Gottlieb_07301%29.jpg/700px-Django_Reinhardt_%28Gottlieb_07301%29.jpg)
