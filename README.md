@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/790px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SARS-CoV-2_scanning_electron_microscope_image.jpg/800px-SARS-CoV-2_scanning_electron_microscope_image.jpg)
