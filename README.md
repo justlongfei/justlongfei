@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Christ%27s_Entry_into_Brussels_in_1889.jpg/1000px-Christ%27s_Entry_into_Brussels_in_1889.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Moscow_Elektrozavodskaya_metro_station_asv2018-09.jpg/800px-Moscow_Elektrozavodskaya_metro_station_asv2018-09.jpg)
