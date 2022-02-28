@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Moscow_Elektrozavodskaya_metro_station_asv2018-09.jpg/800px-Moscow_Elektrozavodskaya_metro_station_asv2018-09.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Phyllidia_elegans_%2823806633304%29.jpg/700px-Phyllidia_elegans_%2823806633304%29.jpg)
