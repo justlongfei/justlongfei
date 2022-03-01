@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Phyllidia_elegans_%2823806633304%29.jpg/700px-Phyllidia_elegans_%2823806633304%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gemini_5_Elliot_See_water_egress_training.jpg/700px-Gemini_5_Elliot_See_water_egress_training.jpg)
