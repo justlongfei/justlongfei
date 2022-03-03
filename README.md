@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NEWScotland-2016-Aerial-Blackness_Castle_01.jpg/800px-NEWScotland-2016-Aerial-Blackness_Castle_01.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sesshu_-_Haboku-Sansui_-_complete.jpg/600px-Sesshu_-_Haboku-Sansui_-_complete.jpg)
