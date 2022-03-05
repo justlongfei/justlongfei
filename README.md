@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Scarlet_darter_%28Crocothemis_erythraea%29_female_Bulgaria.jpg/800px-Scarlet_darter_%28Crocothemis_erythraea%29_female_Bulgaria.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg/800px-Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg)
