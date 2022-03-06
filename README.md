@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg/800px-Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Taeniopygia_bichenovii_2_-_Glen_Davis.jpg/700px-Taeniopygia_bichenovii_2_-_Glen_Davis.jpg)
