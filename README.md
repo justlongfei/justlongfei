@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hudson_Yards_from_Hudson_Commons_%2895131p%29.jpg/798px-Hudson_Yards_from_Hudson_Commons_%2895131p%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Marguerite_Durand_1910_-_Restoration.jpg/600px-Marguerite_Durand_1910_-_Restoration.jpg)
