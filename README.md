@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rufous-collared_sparrow_%28Zonotrichia_capensis_costaricensis%29_2.jpg/800px-Rufous-collared_sparrow_%28Zonotrichia_capensis_costaricensis%29_2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/German_States_Fugger_1621_10_Ducats.jpg/800px-German_States_Fugger_1621_10_Ducats.jpg)
