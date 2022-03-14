@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/German_States_Fugger_1621_10_Ducats.jpg/800px-German_States_Fugger_1621_10_Ducats.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Iris_Calderhead.jpg/600px-Iris_Calderhead.jpg)
