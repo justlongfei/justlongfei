@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Iris_Calderhead.jpg/600px-Iris_Calderhead.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haliotis_clathrata_01.JPG/800px-Haliotis_clathrata_01.JPG)
