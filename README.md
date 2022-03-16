@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haliotis_clathrata_01.JPG/800px-Haliotis_clathrata_01.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gateway_Generating_Station_rectified.jpg/1200px-Gateway_Generating_Station_rectified.jpg)
