@@ -28,4 +28,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Coturnix_ypsilophora_-_Sydney_Olympic_Park.jpg/700px-Coturnix_ypsilophora_-_Sydney_Olympic_Park.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Barsana_Holi_Festival.jpg/800px-Barsana_Holi_Festival.jpg)
