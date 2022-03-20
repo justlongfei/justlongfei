@@ -26,4 +26,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Barsana_Holi_Festival.jpg/800px-Barsana_Holi_Festival.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_Google_Art_Project.jpg/700px-Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_Google_Art_Project.jpg)
