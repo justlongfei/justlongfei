@@ -26,4 +26,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nowruz_2017_in_Bisaran%2C_Kurdistan_province.jpg/1000px-Nowruz_2017_in_Bisaran%2C_Kurdistan_province.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gemsbok_%28Oryx_gazella%29_male.jpg/800px-Gemsbok_%28Oryx_gazella%29_male.jpg)
