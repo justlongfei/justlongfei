@@ -25,4 +25,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cathedral_Cove_06.jpg/700px-Cathedral_Cove_06.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Borbo_cinnara_%28Rice_swift%29_on_a_leaf.jpg/700px-Borbo_cinnara_%28Rice_swift%29_on_a_leaf.jpg)
