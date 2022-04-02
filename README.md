@@ -25,4 +25,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Borbo_cinnara_%28Rice_swift%29_on_a_leaf.jpg/700px-Borbo_cinnara_%28Rice_swift%29_on_a_leaf.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Scotland-2016-West_Lothian-Hopetoun_House_02.jpg/1000px-Scotland-2016-West_Lothian-Hopetoun_House_02.jpg)
