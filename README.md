@@ -25,4 +25,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Scotland-2016-West_Lothian-Hopetoun_House_02.jpg/1000px-Scotland-2016-West_Lothian-Hopetoun_House_02.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/00065_sand_collage.jpg/800px-00065_sand_collage.jpg)
