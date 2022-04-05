@@ -25,4 +25,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/African_emerald_cuckoo_%28Chrysococcyx_cupreus%29_male.jpg/700px-African_emerald_cuckoo_%28Chrysococcyx_cupreus%29_male.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/SL_Colombo_asv2020-01_img10_National_Museum.jpg/800px-SL_Colombo_asv2020-01_img10_National_Museum.jpg)
