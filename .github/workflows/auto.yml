@@ -25,7 +25,7 @@ jobs:
 
     - name: Commit files
       run: |
-        git config --local user.email "lf.x.0720@gmail.com"
+        git config --local user.email "longfei1bot@gmail.com"
         git config --local user.name "longfei(bot)"
         git commit -m "Update POTD == $(date +%Y-%m-%d)" -a
     
