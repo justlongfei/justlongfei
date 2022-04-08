@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hygrocybe_miniata_-_Ferndale_Park.jpg/700px-Hygrocybe_miniata_-_Ferndale_Park.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/California_sea_lion_in_La_Jolla_%2870568%29.jpg/700px-California_sea_lion_in_La_Jolla_%2870568%29.jpg)
