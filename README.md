@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/California_sea_lion_in_La_Jolla_%2870568%29.jpg/700px-California_sea_lion_in_La_Jolla_%2870568%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oedipus_and_the_Sphinx_MET_DP-14201-023.jpg/600px-Oedipus_and_the_Sphinx_MET_DP-14201-023.jpg)
