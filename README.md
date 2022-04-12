@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hubertine_Auclert_1910.jpg/700px-Hubertine_Auclert_1910.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg/800px-Northern-Lapwing-Vanellus-vanellus.jpg)
