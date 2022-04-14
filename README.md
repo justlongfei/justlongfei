@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ROM-70-Emergency_WWI-25_Bani_%281917%29.jpg/800px-ROM-70-Emergency_WWI-25_Bani_%281917%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Denis_Mukwege_par_Claude_Truong-Ngoc_novembre_2014.jpg/600px-Denis_Mukwege_par_Claude_Truong-Ngoc_novembre_2014.jpg)
