@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Christ_Falling_on_the_Way_to_Calvary_-_Raphael.jpg/700px-Christ_Falling_on_the_Way_to_Calvary_-_Raphael.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rich%C3%A8l_Hogenkamp_-_Masters_de_Madrid_2015_-_11.jpg/800px-Rich%C3%A8l_Hogenkamp_-_Masters_de_Madrid_2015_-_11.jpg)
