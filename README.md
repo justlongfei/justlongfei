@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/800px-Post-and-Grant-Avenue-Look.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Seaborg_in_lab_-_restoration.jpg/700px-Seaborg_in_lab_-_restoration.jpg)
