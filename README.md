@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Golden-eyed_tree_frog_%28Agalychnis_annae%29.jpg/800px-Golden-eyed_tree_frog_%28Agalychnis_annae%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Easter_breakfast_in_Serbia_%28close-up%29.jpg/800px-Easter_breakfast_in_Serbia_%28close-up%29.jpg)
