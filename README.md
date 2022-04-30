@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jasmin_Moghbeli_official_portrait.jpg/700px-Jasmin_Moghbeli_official_portrait.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fluorescence_in_calcite.jpg/700px-Fluorescence_in_calcite.jpg)
