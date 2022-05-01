@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fluorescence_in_calcite.jpg/700px-Fluorescence_in_calcite.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FAIRCHILD%2C_Charles_S-Treasury_%28BEP_engraved_portrait%29.jpg/700px-FAIRCHILD%2C_Charles_S-Treasury_%28BEP_engraved_portrait%29.jpg)
