@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FAIRCHILD%2C_Charles_S-Treasury_%28BEP_engraved_portrait%29.jpg/700px-FAIRCHILD%2C_Charles_S-Treasury_%28BEP_engraved_portrait%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Naser_al-Din_Shah_Qajar%2C_close_up%2C_with_slight_smile_by_Nadar.jpg/700px-Naser_al-Din_Shah_Qajar%2C_close_up%2C_with_slight_smile_by_Nadar.jpg)
