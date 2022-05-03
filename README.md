@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Naser_al-Din_Shah_Qajar%2C_close_up%2C_with_slight_smile_by_Nadar.jpg/700px-Naser_al-Din_Shah_Qajar%2C_close_up%2C_with_slight_smile_by_Nadar.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_Talismanic_shirt.jpg/800px-Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_Talismanic_shirt.jpg)
