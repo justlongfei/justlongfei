@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_Talismanic_shirt.jpg/800px-Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_Talismanic_shirt.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eastern_chanting_goshawk_%28Melierax_poliopterus%29.jpg/800px-Eastern_chanting_goshawk_%28Melierax_poliopterus%29.jpg)
