@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Indian_tent_turtle_%28Pangshura_tentoria_tentoria%29.jpg/800px-Indian_tent_turtle_%28Pangshura_tentoria_tentoria%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BEP-GIRSCH-DeSoto_Discovering_the_Mississippi_%28Powell%29.jpg/1000px-BEP-GIRSCH-DeSoto_Discovering_the_Mississippi_%28Powell%29.jpg)
