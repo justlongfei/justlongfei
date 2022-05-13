@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hattie_Caraway_by_Harris_%26_Ewing%2C_1914.jpg/700px-Hattie_Caraway_by_Harris_%26_Ewing%2C_1914.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Italian_States-Venice_%281779-89%29_50_Zecchini.jpg/1000px-Italian_States-Venice_%281779-89%29_50_Zecchini.jpg)
