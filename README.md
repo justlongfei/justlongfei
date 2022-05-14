@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Italian_States-Venice_%281779-89%29_50_Zecchini.jpg/1000px-Italian_States-Venice_%281779-89%29_50_Zecchini.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Haematopus_unicolor_-_Point_Chevalier.jpg/800px-Haematopus_unicolor_-_Point_Chevalier.jpg)
