@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Haematopus_unicolor_-_Point_Chevalier.jpg/800px-Haematopus_unicolor_-_Point_Chevalier.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_8.jpg/1000px-Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_8.jpg)
