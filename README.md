@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_8.jpg/1000px-Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_8.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Professeur_Metchnikoff%2C_portrait_du_scientifique_dans_un_laboratoire_de_recherche.jpg/800px-Professeur_Metchnikoff%2C_portrait_du_scientifique_dans_un_laboratoire_de_recherche.jpg)
