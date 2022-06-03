@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/1000px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ptilotula_penicillata_-_Glen_Davis.jpg/600px-Ptilotula_penicillata_-_Glen_Davis.jpg)
