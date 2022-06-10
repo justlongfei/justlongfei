@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Charles-Antoine_Cambon_-_Set_design_for_the_premi%C3%A8re_of_Rossini%27s_Robert_Bruce%2C_Act_III%2C_Scene_3.jpg/1000px-Charles-Antoine_Cambon_-_Set_design_for_the_premi%C3%A8re_of_Rossini%27s_Robert_Bruce%2C_Act_III%2C_Scene_3.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg/800px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg)
