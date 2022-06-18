@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/June_odd-eyed-cat_cropped.jpg/800px-June_odd-eyed-cat_cropped.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bolungarvik_Pano_from_Avalanche_Dam.jpg/1500px-Bolungarvik_Pano_from_Avalanche_Dam.jpg)
