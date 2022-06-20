@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sir_Arthur_Wellesley%2C_1st_Duke_of_Wellington.png/600px-Sir_Arthur_Wellesley%2C_1st_Duke_of_Wellington.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_6.jpg/600px-Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_6.jpg)
