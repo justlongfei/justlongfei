@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wells_Cathedral_Arches%2C_Somerset%2C_UK_-_Diliff.jpg/800px-Wells_Cathedral_Arches%2C_Somerset%2C_UK_-_Diliff.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Th%C3%A9ophile_Thor%C3%A9_by_Nadar.jpg/600px-Th%C3%A9ophile_Thor%C3%A9_by_Nadar.jpg)
