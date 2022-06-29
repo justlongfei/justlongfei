@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mar%C3%A9chal_Canrobert_by_Nadar.jpg/600px-Mar%C3%A9chal_Canrobert_by_Nadar.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/US-%241-SC-1891-Fr.223.jpg/406px-US-%241-SC-1891-Fr.223.jpg)
