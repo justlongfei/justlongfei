@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/US-%241-SC-1891-Fr.223.jpg/406px-US-%241-SC-1891-Fr.223.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/St._Peter_and_St._Paul%27s_Church_3%2C_Vilnius%2C_Lithuania_-_Diliff.jpg/800px-St._Peter_and_St._Paul%27s_Church_3%2C_Vilnius%2C_Lithuania_-_Diliff.jpg)
