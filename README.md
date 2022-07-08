@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_1.jpg/1000px-Scintillant_hummingbird_%28Selasphorus_scintilla%29_female_in_flight_1.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flora_MacDonald_Denison_-_Records_of_the_National_Woman%27s_Party.jpg/500px-Flora_MacDonald_Denison_-_Records_of_the_National_Woman%27s_Party.jpg)
