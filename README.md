@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flora_MacDonald_Denison_-_Records_of_the_National_Woman%27s_Party.jpg/500px-Flora_MacDonald_Denison_-_Records_of_the_National_Woman%27s_Party.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St_Cyprian%27s_Church_Nave%2C_Clarence_Gate%2C_London%2C_UK_-_Diliff.jpg/900px-St_Cyprian%27s_Church_Nave%2C_Clarence_Gate%2C_London%2C_UK_-_Diliff.jpg)
