@@ -11,4 +11,4 @@
 ### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dorothy_Houston_Jacobson_1967_-_Crop.jpg/800px-Dorothy_Houston_Jacobson_1967_-_Crop.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Red_wattlebird.jpg/800px-Red_wattlebird.jpg)
