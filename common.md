@@ -1,12 +1,15 @@
-## 👋   hi there, welcome to my github ~ 
+## 👋 Hi there, welcome here
+
+[👾](https://dragonfly.run/) I'am
 ```
-╦┌┬┐  ┬  ┌─┐┌┐┌┌─┐┌─┐┌─┐┬
-║│││  │  │ │││││ ┬├┤ ├┤ │
-╩┴ ┴  ┴─┘└─┘┘└┘└─┘└  └─┘┴
+┬  ┌─┐┌┐┌┌─┐┌─┐┌─┐┬
+│  │ │││││ ┬├┤ ├┤ │
+┴─┘└─┘┘└┘└─┘└  └─┘┴
 ```
+, Comes from Shanghai🇨🇳 . 
 
-[👾](https://dragonfly.run/)  Comes from Shanghai🇨🇳 . 
 
+### Picture of the day
 
-### [Picture of the day](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day)
+This is a picture of the day from [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day).
 
